@@ -1,6 +1,13 @@
-# Paper Collection
+# Useful Links
 
 ## Hep
+
+## Meetings
+
+* [UMich ATLAS weekly](https://indico.cern.ch/category/529/)
+
+
+## Papers & Notes
 
 [ATLAS Public Results](https://twiki.cern.ch/twiki/bin/view/AtlasPublic/HiggsPublicResults)
 
