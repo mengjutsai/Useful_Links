@@ -13,6 +13,9 @@
 
 ### Higgs
 
+* Handbook 
+  * [Good](https://arxiv.org/pdf/1307.1347.pdf)
+  
 * Introduction to Higgs physics
   * [Well](https://cds.cern.ch/record/272356/files/9411325.pdf)
 
