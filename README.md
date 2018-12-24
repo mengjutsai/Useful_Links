@@ -31,6 +31,10 @@
       * For Higgs&rightarrow;WW,
       Its rate is large, but a narrow mass peak cannot be reconstructed due to the presence of two neutrinos in the final state. 
       
+ * Coupling 
+   * [Coupling](https://indico.cern.ch/event/477407/contributions/2197206/attachments/1369127/2075542/Guindon_HiggsCoupling2016.pdf)
+      
+      
  * Very impressive slides
    * [UPenn: H->WW Well](http://www.hep.upenn.edu/HEP_website_09/Talks/Seminars/talks/2014_Joana.pdf)
    * [UPenn - Tae Min Hong: HWW](https://web.fnal.gov/organization/theory/JETP/2014/TaeMinHong20140124_FNALWineAndCheese.pdf)
